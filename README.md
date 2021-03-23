@@ -1,4 +1,4 @@
-# AudioFreeze Teensy based Eurorack module
+# AudioFreeze Teensy based Eurorack module FORK for hexpedal
 ## What is AudioFreeze?
 AudioFreeze is a Eurorack module which uses a Teensy board, and the Teensy audio shield. It allows you to 'freeze' a section of incoming audio and manipulate it with the pots. There is a potentiometer on the rear of the board to attenuate input voltage.
 
