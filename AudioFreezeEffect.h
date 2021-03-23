@@ -1,8 +1,8 @@
 #pragma once
 
 #include <AudioStream.h>
-
-#define FREEZE_QUEUE_SIZE_IN_BYTES     1024*50      // 50k
+#define DEBUG_OUTPUT
+#define FREEZE_QUEUE_SIZE_IN_BYTES     1024*75      // 50k
 
 ////////////////////////////////////////
 
