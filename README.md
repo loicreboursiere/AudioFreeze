@@ -6,3 +6,8 @@ Don't forget to do
 ```
 git checkout freeze4hex
 ```
+When Everything is fine and you want to push the branch
+```
+git checkout master
+git push origin freeze4hex
+```
