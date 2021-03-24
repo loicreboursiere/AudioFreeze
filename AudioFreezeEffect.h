@@ -2,7 +2,7 @@
 
 #include <AudioStream.h>
 #define DEBUG_OUTPUT
-#define FREEZE_QUEUE_SIZE_IN_BYTES     1024*75      // 50k
+#define FREEZE_QUEUE_SIZE_IN_BYTES     1024*75      // 75k
 
 ////////////////////////////////////////
 
